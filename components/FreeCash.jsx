@@ -17,7 +17,7 @@ export default function FreeCash() {
           Claim Now Free $100 USDT
         </p>
         <div className="flex flex-col items-center gap-3 mt-5 justify-center">
-          <a href="https://www.effectiveratecpm.com/ebmi8eah?key=f08d3ac8bfcaba61b928eb1819245b99">
+          <a href="https://oodruhoufouzair.com/4/9035709">
             <button className="bg-orange-500 px-4 py-2 rounded-full text-white hover:text-lime-400 transition-all duration-500 hover:bg-orange-700 ">
               Verify Now
             </button>
